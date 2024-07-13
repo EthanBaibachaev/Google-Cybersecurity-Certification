@@ -7,7 +7,7 @@ Certificate for Ethan Baibachaev, Google Cybersecurity, offered through Coursera
 
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
 
-They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, NIST Framework, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
 
 This course covered topics such as:
 
